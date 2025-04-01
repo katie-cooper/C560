@@ -9,10 +9,9 @@ Arun Somasundaram
 Nathan Jacobs
 
 ## Project Directive 
-*Goal*: Develop an intelligent agent capable of playing Othello.  
+**Goal:** Develop an intelligent agent capable of playing Othello.  
 
-*Game Rules*
-[Official Othello Rules](https://www.worldothello.org/about/about-othello/othello-rules/official-rules/english)
+**Game Rules:** [Official Othello Rules](https://www.worldothello.org/about/about-othello/othello-rules/official-rules/english)
 
 ## Topics 
 - **MINIMAX:** The agent will utilize a depth-limited minimax algorithm (depth = 4) to evaluate possible moves and select the optimal one. This method ensures the agent anticipates its opponent’s responses and chooses moves that maximize its position while minimizing the opponent’s. 
