@@ -3,9 +3,13 @@ Final project for C560.002, Spring 2025
 
 ## Group Members 
 Katie Fort 
+
 Jean Cheng 
+
 Aaditi Jadhav 
+
 Arun Somasundaram 
+
 Nathan Jacobs
 
 ## Project Directive 
