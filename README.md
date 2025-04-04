@@ -20,7 +20,7 @@ Each search node will encapsulate the:
 - Possible next moves
 - Current depth in the seach tree
 
-**Start State:** A 2x2 square in the center of the board (the white peice in the upper-left corder), with each player's pieces placed diagonally from one another.
+**Start State:** A 2x2 square in the center of the board with each player's pieces placed diagonally from one another (a white piece is in the upper-left corner).
 
 **Goal State:** Maximize the number of pieces controlled by our agent when the board is filled.
 
