@@ -7,7 +7,7 @@ Kathleen Fort, Jean Cheng, Aaditi Jadhav, Arun Somasundaram, & Nathan Jacobs
 ## Project Directive 
 **Goal:** Develop an intelligent agent capable of playing Tic Tac Toe.  
 
-**Game Rules:** [Official Tic Tac Toe Rules]([https://www.worldothello.org/about/about-othello/othello-rules/official-rules/english](https://en.wikipedia.org/wiki/Tic-tac-toe)
+**Game Rules:** [Official Tic Tac Toe Rules](https://en.wikipedia.org/wiki/Tic-tac-toe)
 
 ## Topics 
 - **MINIMAX:** The agent will utilize a minimax algorithm to evaluate possible moves and select the optimal one. This method ensures the agent anticipates its opponent’s responses and chooses moves that maximize its position while minimizing the opponent’s. 
