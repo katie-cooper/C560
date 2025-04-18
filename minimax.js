@@ -38,7 +38,7 @@ function optimalMove() {
             board[i][j] = agent;
             let score = minimaxSearch(board, searchDepth + 1, false);
             board[i][j] = '';
-            optimalScore = max(score, optimalScore);
+            optimalScore = Math.max(score, optimalScore);
           }
         }
       }
@@ -51,7 +51,7 @@ function optimalMove() {
             board[i][j] = opponent;
             let score = minimaxSearch(board, searchDepth + 1, true);
             board[i][j] = '';
-            optimalScore = min(score, optimalScore);
+            optimalScore = Math.min(score, optimalScore);
           }
         }
       }

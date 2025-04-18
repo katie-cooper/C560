@@ -107,7 +107,7 @@ let board = [
       if (gameResult== 'tie') {
         resultDisplay.html('It\'s a Tie!');
       } else {
-        resultDisplay.html(`${result} wins!`);
+        resultDisplay.html(`${gameResult} wins!`);
       }
     }
   }
