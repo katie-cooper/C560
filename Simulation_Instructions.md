@@ -7,4 +7,4 @@
      * `false` plays against opponent making random moves
 4. **Expectations**
    * Against a *random opponent*, the AI will never lose
-   * Against an *optimal* opponent (both parties use minimax agorithm), 100% of the results will be a tie
+   * Against an *optimal opponent* (both parties use minimax agorithm), 100% of the results will be a tie
