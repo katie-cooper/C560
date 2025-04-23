@@ -8,3 +8,5 @@
 4. **Expectations**
    * Against a *random opponent*, the AI will never lose (the opponent *O* will have zero wins)
    * Against an *optimal opponent* (both parties use minimax agorithm), 100% of the results will be a tie
+
+![Simulation Example with 500 games against an optimal and random opponent.](media/simulation.png)
