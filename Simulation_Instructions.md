@@ -6,5 +6,5 @@
      * `true` plays against opponent using minimax algorithm
      * `false` plays against opponent making random moves
 4. **Expectations**
-   * Against a *random opponent*, the AI will never lose
+   * Against a *random opponent*, the AI will never lose (the opponent *O* will have zero wins)
    * Against an *optimal opponent* (both parties use minimax agorithm), 100% of the results will be a tie
