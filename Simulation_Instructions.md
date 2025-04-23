@@ -1,3 +1,4 @@
+# Simulation Instructions
 1. Go live in your browser from index.html
 2. Enter your browser console
 3. From your browser console, run nSimulations(n, optimalOpponent)
