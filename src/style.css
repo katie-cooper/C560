@@ -32,3 +32,27 @@ canvas {
   font-weight: bold;
   color: #555;
 }
+
+button {
+  background-color: #62bbff;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  margin: 10px;
+  border-radius: 12px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+  background-color: #f9b004;
+  transform: translateY(-2px);
+}
+
+#starter-choice p {
+  font-weight: 500;
+  margin-bottom: 12px;
+  color: #444;
+}
